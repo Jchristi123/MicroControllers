@@ -1,16 +1,3 @@
-#ifndef __STM32L476R_NUCLEO_LCD_H
-#define __STM32L476R_NUCLEO_LCD_H
-
-void delay_ms(unsigned int ms);
-
-void LCD_WriteCom(unsigned char com);
-void LCD_WriteData(unsigned char dat);
-
-void LCD_Init(void);
-void LCD_Clear(void);
-
-void LCD_DisplayString(unsigned int line, unsigned char *ptr);
-void DisplayWinner(unsigned char winner);
-void Debounce(void);
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:f312168ddb7b393a3c1519eebd9ef169d48bc8cd1959dcb73f74fffaf2f65ea9
+size 358
