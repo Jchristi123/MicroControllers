@@ -1,1 +1,2 @@
-This is a repository containing the code, report, and video that was made for a final project in the class ECE 3710 (Microcontrollers Hardware and Software) at Utah State University
+This is a repository containing the code, report, and video that was made for a final project in the class ECE 3710 (Microcontrollers Hardware and Software) at Utah State University.
+The final project was written in C for the STM32L476 microcontroller. It utilizes the UART communication protocol, 5 external push buttons, and an external LCD to display a TIc-Tac-Toe board to a PC using a PuTTY terminal. The user is then able to move a cursor around the board and place "X" or "O" characters using the buttons. The winner and result of the game is displayed on the LCD. 
